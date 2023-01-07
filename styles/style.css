@@ -144,7 +144,11 @@ footer {
 .future img {
   margin-top: 32px;
 }
-/* achievement */
-.achievement {
-  text-align: center;
+/* bonus section achievement */
+.achievement-container {
+  display: flex;
+  margin-bottom: 130px;
+}
+.pic-achievement img {
+  height: 500px;
 }
